@@ -64,9 +64,14 @@ When operating MIDI devices according to this publication's contents, please mak
 ## WAVE GUIDE
 |Control No.|value|Parameter name|
 |---:|---|---|
-|13 (0x0D)|0-xx|MODEL(TBD)|
-|11 (0x75)|0-127|DECAY|
+|117 (0x75)|0-127|DECAY|
 |118 (0x76)|0-127|BODY|
 |119 (0x77)|0-127|TUNE|
  
+
+## SYSTEM
+|Control No.|value|Parameter name|
+|---:|---|---|
+|3  (0x03)|0-15|LOAD KIT|
+
 
