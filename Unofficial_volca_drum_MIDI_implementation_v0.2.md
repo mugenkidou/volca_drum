@@ -1,4 +1,4 @@
-# Unofficial MIDI implementation for volca drum v0.2
+# Unofficial MIDI implementation for volca drum v1.11
 
 March 21th, 2019
 
