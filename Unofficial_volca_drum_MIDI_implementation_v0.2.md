@@ -45,8 +45,8 @@ When operating MIDI devices according to this publication's contents, please mak
 |48 (0x30)|0-127|MOD RATE|
 |28 (0x1C)|0-127|PITCH|
 |22 (0x16)|0-127|EG ATTACK|
-|22 (0x19)|0-127|EG RELEASE|
-|25 (0x10)|0-127|SELECT|
+|25 (0x19)|0-127|EG RELEASE|
+|16 (0x10)|0-127|SELECT|
 
 
 ## Common
